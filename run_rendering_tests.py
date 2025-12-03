@@ -1,4 +1,4 @@
-#!/usr/bin/env pixi run python3
+#!/usr/bin/env -S pixi run python3
 """
 Test rattler-build rendering against ground-truth test data.
 
